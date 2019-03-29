@@ -16,6 +16,7 @@ const fetchPrices = async symbols => {
 
 let portfolio = [
   { symbol: "GOOG", purchasePrice: 192.0, qty: 100 },
+  { symbol: "FB", purchasePrice: 163.0, qty: 25 },
   { symbol: "FB", purchasePrice: 163.0, qty: 25 }
 ];
 
