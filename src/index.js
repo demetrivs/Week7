@@ -1,5 +1,5 @@
 import $ from "jquery";
-// import "babel-polyfill";
+import "babel-polyfill";
 
 const fetchPrices = async symbols => {
   //{'AAPL', 'TSLA'}
